@@ -1,5 +1,5 @@
 {
-  "name": "mariodias/grafeno-sdk-php",
+  "name": "grafeno.pagamentos/grafeno-sdk-php",
   "description": "",
   "keywords": ["Grafeno", "charges", "FIDC"],
   "license": "MIT",
