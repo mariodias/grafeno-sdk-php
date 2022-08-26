@@ -1,4 +1,19 @@
 ## Index
+
+ > Statistics
+
+  [![Total Downloads](https://poser.pugx.org/mariodias/wirecard-sdk-php/downloads)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+  [![Monthly Downloads](https://poser.pugx.org/mariodias/wirecard-sdk-php/d/monthly)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+
+  > Versions
+
+  [![Latest Stable Version](https://poser.pugx.org/mariodias/wirecard-sdk-php/v/stable)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+  [![Latest Unstable Version](https://poser.pugx.org/mariodias/wirecard-sdk-php/v/unstable)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+
+  ---
+</p>
+
+
 - [Instalação](#instalação)
 - [Autenticação e definição do ambiente](#autenticação-e-definição-do-ambiente)
 - [Contas](#contas)
