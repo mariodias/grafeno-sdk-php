@@ -2,13 +2,13 @@
 
  > Statistics
 
-  [![Total Downloads](https://poser.pugx.org/mariodias/wirecard-sdk-php/downloads)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
-  [![Monthly Downloads](https://poser.pugx.org/mariodias/wirecard-sdk-php/d/monthly)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+  [![Total Downloads](https://poser.pugx.org//mariosergiodias/grafeno-sdk-php-2022/downloads)](https://packagist.org/packages//mariosergiodias/grafeno-sdk-php-2022)
+  [![Monthly Downloads](https://poser.pugx.org/mariosergiodias/grafeno-sdk-php-2022/d/monthly)](https://packagist.org/packages/mariosergiodias/grafeno-sdk-php-2022)
 
   > Versions
 
-  [![Latest Stable Version](https://poser.pugx.org/mariodias/wirecard-sdk-php/v/stable)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
-  [![Latest Unstable Version](https://poser.pugx.org/mariodias/wirecard-sdk-php/v/unstable)](https://packagist.org/packages/mariodias/wirecard-sdk-php)
+  [![Latest Stable Version](https://poser.pugx.org/mariosergiodias/grafeno-sdk-php-2022/v/stable)](https://packagist.org/packages/mariosergiodias/grafeno-sdk-php-2022)
+  [![Latest Unstable Version](https://poser.pugx.org//mariosergiodias/grafeno-sdk-php-2022/v/unstable)](https://packagist.org/packages/mariosergiodias/grafeno-sdk-php-2022)
 
   ---
 </p>
