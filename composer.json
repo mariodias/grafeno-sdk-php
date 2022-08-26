@@ -1,5 +1,5 @@
 {
-  "name": "grafeno.pagamentos/grafeno-sdk-php",
+  "name": "mariodias/grafeno-sdk-php-2022",
   "description": "",
   "keywords": ["Grafeno", "charges", "FIDC"],
   "license": "MIT",
@@ -36,11 +36,7 @@
         "psr-4": {
             "Grafeno\\Tests\\": "tests/"
         }
-    },
-    "extra": {
-      "branch-alias": {
-          "dev-master": "1.x-dev"
-      }
+    }
   },
   "minimum-stability": "dev",
   "config": {
